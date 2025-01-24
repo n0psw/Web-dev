@@ -1,0 +1,24 @@
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: #fff7e6;
+}
+
+h1 {
+    color: #ff6600;
+}
+
+table {
+    width: 50%;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #333;
+}
+
+form {
+    margin-top: 20px;
+}
