@@ -1,0 +1,25 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #eef;
+}
+
+header {
+    background-color: #555;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+article {
+    background: white;
+    padding: 15px;
+    border: 1px solid #ccc;
+    width: 40%;
+}
