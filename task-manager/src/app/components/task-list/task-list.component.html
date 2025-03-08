@@ -1,0 +1,5 @@
+<h2>Task List</h2>
+<p>Loading tasks...</p>
+<div *ngFor="let task of tasks">
+  <app-task-item [task]="task" (taskCompleted)="markTaskCompleted($event)"></app-task-item>
+</div>
